@@ -1,2 +1,8 @@
-django
-whitenoise==6.9.0
+
+Django
+gunicorn
+psycopg2-binary 
+dj-database-url
+whitenoise
+python-dotenv  
+>>>>>>> 5474cb8 (mwssage)
